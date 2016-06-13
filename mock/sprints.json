@@ -1,0 +1,17 @@
+{
+  "1.2": {
+    "name": "Fix these potatoes!",
+    "description": "Gummy bears jump through hoops",
+    "buildDate": "06-06-2016"
+  },
+  "2.3": {
+    "name": "Implement Express",
+    "description": "Kites fly into the twilight zone",
+    "buildDate": "06-12-2016"
+  },
+  "3.0": {
+    "name": "Modify the dessert",
+    "description": "Fanny pack vinyl put a bird on itx",
+    "buildDate": "07-20-2016"
+  }
+}

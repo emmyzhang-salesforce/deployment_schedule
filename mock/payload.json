@@ -1,0 +1,16 @@
+{
+  "id": "0",
+  "ts": "new Date()",
+  "str": "Some message",
+  "buildDate": "Thursday, June 2",
+  "deploymentSchedule": [
+    {
+      "id": "0.1",
+      "str": "Event 1"
+    },
+    {
+      "id": "0.2",
+      "str": "Event 2"
+    }
+  ]
+}
