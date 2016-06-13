@@ -15,4 +15,4 @@ Example Express App for displaying deployment schedules
 1. Clone repo: ```git clone git@github.com:emmyzhang-salesforce/deployment_schedule.git ```
 2. Run ```npm install```
 3. Run ```npm start```
-4. Go to ```localhost:7000``` 
+4. Go to ```localhost:3030``` 
