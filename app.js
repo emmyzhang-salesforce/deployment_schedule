@@ -8,7 +8,7 @@ app.set('view engine', 'ejs');
 // var sprints = require('./mock/sprints.json');
 var info = require('./mock/payload.json');
 
-app.locals.pagetitle = "Awesome Website | "; // for all pages
+app.locals.pagetitle = "Awesome Website "; // for all pages
 
 app.get('/', routes.index);
 app.get('/about', routes.about);
